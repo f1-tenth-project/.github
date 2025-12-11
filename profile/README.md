@@ -20,3 +20,7 @@
 - **Simulation:** Rviz2
 
 </div>
+
+## Repository
+- https://github.com/f1-tenth-project/namgyu
+- https://github.com/f1-tenth-project/taemin
