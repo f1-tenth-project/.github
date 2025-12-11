@@ -3,8 +3,8 @@
   # F1Tenth Project Team 4
   
   <br>프로그래밍 프로젝트 4조
-  팀장 이남규
-  팀원 김태민, 박형탁
+  <br>팀장 이남규
+  <br>팀원 김태민, 박형탁
 
   <br>
   <img src="https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white">
